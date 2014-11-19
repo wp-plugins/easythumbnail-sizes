@@ -28,10 +28,12 @@ Older images are not resized (it's the nature of WordPress). If you need to resi
 
 
 == Screenshots ==
+
 1. EasyThumbnailSizes interface in theme customizer.
 
 2. New sizes available in media manager.
 
 == Changelog ==
+
 = 1.0 =
 * Initial release
