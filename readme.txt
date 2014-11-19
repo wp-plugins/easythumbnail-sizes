@@ -7,7 +7,8 @@ Stable tag: trunk
 
 The easiest way to add custom sized thumbnails to any installed theme. No coding required.
 
-== Features ==
+== Description ==
+
 * No coding requires.
 * Integrates into theme customizer.
 * Individual thumbnail sizes for every installed theme.
