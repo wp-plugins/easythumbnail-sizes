@@ -9,7 +9,7 @@ The easiest way to add custom sized thumbnails to any installed theme. No coding
 
 == Description ==
 
-* No coding requires.
+* No coding required.
 * Integrates into theme customizer.
 * Individual thumbnail sizes for every installed theme.
 * Easily add and remove new sizes.
