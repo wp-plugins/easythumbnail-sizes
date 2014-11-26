@@ -35,6 +35,6 @@ Older images are not resized (it's the nature of WordPress). If you need to resi
 = 1.0 =
 * Initial release
 
-= 1.0.1
+= 1.0.1 =
 * Added uninsstall routine
 * Corrected Plugin URI
