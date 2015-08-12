@@ -6,6 +6,8 @@ Plugin URI: http://www.wordpress.org/plugins/easythumbnail-sizes
 Description: The easiest way to add custom sized thumbnails to any installed theme. No coding required.
 Author: Lutz Schr&ouml;er
 Version: 1.0.1
+Requires at least: 3.5
+Tested up to: 4.2
 Author URI: http;//www.elektroelch.net
 */
 
